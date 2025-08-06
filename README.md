@@ -38,4 +38,8 @@ El fan se siente más cerca del equipo y del nuevo fichaje, accede a contenido e
 🔹Propósito: 
 Crear una experiencia digital envolvente que conecte emocionalmente con los fans del Manchester City, presentando al nuevo fichaje como una figura inspiradora y ofreciendo merchandising exclusivo para que los aficionados puedan mostrar su apoyo y formar parte activa del inicio de una nueva era en el club.
 
+## Diseño visual
+
+(![Diseño visual de la landing page](<Previa Visual.png>))
+https://www.figma.com/design/6xWwofZMZlOLHpqg8Uguip/Manchester-City?node-id=0-1&t=C5L9Bcvn2oFD2Dw7-1
 
