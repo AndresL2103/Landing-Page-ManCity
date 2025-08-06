@@ -40,6 +40,6 @@ Crear una experiencia digital envolvente que conecte emocionalmente con los fans
 
 ## Diseño visual
 
-(![Diseño visual de la landing page](<Previa Visual.png>))
+![Diseño visual de la landing page](<Previa Visual.png>)
 https://www.figma.com/design/6xWwofZMZlOLHpqg8Uguip/Manchester-City?node-id=0-1&t=C5L9Bcvn2oFD2Dw7-1
 
