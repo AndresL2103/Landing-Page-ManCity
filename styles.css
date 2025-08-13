@@ -1,0 +1,20 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+
+
+h1 {
+    background-color: #98c5e9;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+}
+
+
+p.intro{
+    font-size: 3rem;
+    color: #ffffff;
+    background-color: #98c5e9;
+}
