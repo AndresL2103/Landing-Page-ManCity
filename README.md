@@ -7,7 +7,7 @@ El objetivo de esta página web es presentar el nuevo jugador de fútbol fichado
 Colores primarios del club Manchester City
 
 - #00285E
-- #6CADDF
+- #98c5e9 azul-MCI
 - #FFFFFF
 - #FFC758
 - #D4A11E

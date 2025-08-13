@@ -1,3 +1,12 @@
+:root{
+    /*Colores de la marca */
+    border: 3px dotted aqua;
+    --azul-MCI:#98c5e9;
+}
+
+
+
+
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #ffffff;
@@ -6,7 +15,7 @@ body{
 
 
 h1 {
-    background-color: #98c5e9;
+    background-color: var(--azul-MCI);
     color: #000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 20px;
