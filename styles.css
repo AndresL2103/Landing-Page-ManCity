@@ -1,15 +1,12 @@
 :root{
     /*Colores de la marca */
-    border: 3px dotted aqua;
     --azul-MCI:#98c5e9;
 }
 
 
-
-
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ffffff;
+    margin: 0 auto;
 }
 
 
@@ -19,7 +16,9 @@ h1 {
     color: #000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 20px;
+    margin: 0 auto;
     text-align: center;
+    display: inline;
 }
 
 
@@ -29,10 +28,13 @@ p.intro{
     background-color:#ffffff;
 }
 
-.logo{
+
+.logo {
     margin: 0 auto;
-    width: 50%;
+    width: 15%;
     text-align: center;
+    display: inline-block;
+    background-color: var(--azul-MCI);
 }
 
 .logo img {
