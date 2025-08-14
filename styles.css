@@ -19,11 +19,22 @@ h1 {
     color: #000;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding: 20px;
+    text-align: center;
 }
 
 
 p.intro{
-    font-size: 3rem;
+    font-size: 1.8rem;
     color: #000;
     background-color:#ffffff;
+}
+
+.logo{
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.logo img {
+    width: 130px;
 }
