@@ -1,42 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root{
     /*Colores de la marca */
     --azul-MCI:#98c5e9;
 }
 
-
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     margin: 0 auto;
 }
 
+.banner {
+    background-color: #7fb3d5; /* similar al azul del banner */
+    padding: 10px 20px;
+}
 
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 h1 {
-    background-color: var(--azul-MCI);
     color: #000;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Montserrat", sans-serif;
     padding: 20px;
     margin: 0 auto;
     text-align: center;
     display: inline;
 }
 
-
 p.intro{
     font-size: 1.8rem;
     color: #000;
     background-color:#ffffff;
+    margin: 0 auto;
 }
 
 
 .logo {
-    margin: 0 auto;
-    width: 15%;
-    text-align: center;
-    display: inline-block;
-    background-color: var(--azul-MCI);
+    width: 50px; /* tamaño similar al logo */
+    height: auto;
 }
 
-.logo img {
-    width: 130px;
-}
