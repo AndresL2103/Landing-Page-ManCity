@@ -37,11 +37,28 @@ p.intro{
     color: #000;
     background-color:#ffffff;
     margin: 0 auto;
+    animation-duration: 7s;
+    animation-name: slide-in;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
 }
 
 
 .logo {
     width: 50px; /* tamaño similar al logo */
     height: auto;
+    text-align: center;
+}
+
+@keyframes slide-in {
+from {
+    translate: 100vw 0;
+    scale: 200% 1;
+}
+
+to {
+    translate: -100vw 0;
+    scale: 100% 1;
+}
 }
 
