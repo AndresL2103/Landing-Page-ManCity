@@ -1,6 +1,6 @@
 # Landing Page Manchester City
 
-El objetivo de esta página web es presentar el nuevo jugador de fútbol fichado por el equipo y el nuevo merchandising sobre el equipo.
+El objetivo de esta página web es presentar la renovación de contrato de un jugador del equipo y el merchandising del jugador.
 
 ## Colores de la marca
 
