@@ -37,7 +37,7 @@ p.intro{
     color: #000;
     background-color:#ffffff;
     margin: 0 auto;
-    animation-duration: 7s;
+    animation-duration: 3s;
     animation-name: slide-in;
     animation-iteration-count: infinite;
     animation-direction: alternate;
@@ -53,13 +53,13 @@ p.intro{
 
 @keyframes slide-in {
 from {
-    translate: 100vw 0;
-    scale: 200% 1;
+    translate: 30vw 0;
+    scale: 80% 1;
 }
 
 to {
-    translate: -100vw 0;
-    scale: 100% 1;
+    translate: -30vw 0;
+    scale: 80% 1;
 }
 }
 
